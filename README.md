@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya-s6" alt="aaditya-s6" /></a> </p>
 
-- 🔭 I’m currently working on **Clone websites**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Front-end Development**
 
 - 💬 Ask me about **Java,Python,HTML,CSS,JavaScript**
 
