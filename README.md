@@ -6,10 +6,10 @@
   <img src="https://img.shields.io/github/stars/aaditya-s6?label=Stars&style=social" alt="Stars" />
 </p>
 
-<h3 align="left">About Me:</h3>
-<p align="left">
+<h2 align="left">About Me:</h2>
+<h3 align="left">
   I am a passionate front-end developer from India with a strong focus on creating beautiful and user-friendly web applications. I love to explore new technologies and continuously improve my skills.
-</p>
+</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaditya-s6&theme=darkhub&row=2&column=3" alt="GitHub Profile Trophy" />
