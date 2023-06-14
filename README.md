@@ -7,9 +7,9 @@
 </p>
 
 <h2 align="left">About Me:</h2>
-<h3 align="left">
+<p align="left">
   I am a passionate front-end developer from India with a strong focus on creating beautiful and user-friendly web applications. I love to explore new technologies and continuously improve my skills.
-</h3>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaditya-s6&theme=darkhub&row=2&column=3" alt="GitHub Profile Trophy" />
@@ -30,7 +30,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   </a>
 </p>
-<h3 align="left">Connect with Me:</h3>
+<h2 align="left">Connect with Me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/aaditya-saraswat-008393172" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
