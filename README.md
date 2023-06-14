@@ -8,7 +8,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I am a passionate frontend developer from India with a strong focus on creating beautiful and user-friendly web applications. I love to explore new technologies and continuously improve my skills.
+  I am a passionate front-end developer from India with a strong focus on creating beautiful and user-friendly web applications. I love to explore new technologies and continuously improve my skills.
 </p>
 
 <p align="center">
